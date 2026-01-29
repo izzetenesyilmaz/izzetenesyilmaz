@@ -5,6 +5,6 @@ const izzetenes = {
     frontend: ["Next.js", "React", "Tailwind"],
     backend: ["Node.js", "Express", "Sequelize"],
     database: ["PostgreSQL"]
-  }
+  },
   status : "Coding"
 };
